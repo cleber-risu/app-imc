@@ -13,6 +13,9 @@ form.addEventListener("submit", (event) => {
 
   Modal.message.innerText = message;
   Modal.open();
+
+  inputWeight.value = "";
+  inputHeight.value = "";
 });
 
 function Imc(weight, height) {
