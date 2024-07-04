@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um simples app de calculadora de IMC, visando praticar e revisar ES3 e módulos do JS.
+Um simples app de calculadora de IMC, visando praticar e revisar ES6 e módulos do JS.
 
 ---
 
